@@ -1,0 +1,17 @@
+.our-menu{
+    margin-left: 100px;
+
+}
+.our-menu li{
+
+}
+.our-menu li a{
+    display: inline-block;
+    padding: 15px 10px;
+    text-decoration: none;
+    color: chartreuse;
+
+}
+.our-menu li a:hover{
+
+}
